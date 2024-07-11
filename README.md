@@ -4,9 +4,9 @@
 - 👨‍💻 Full-Stack Developer based in Chennai, India.
 - 📫 How to reach me: [durairam1221@gmail.com](durairam1221@gmail.com)
 - ⭐ Star-studded projects like
-- 🔗 Rocking a cool **20k+ connections** on LinkedIn, let's connect!
 - 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the [portfolio](https://)! 💻❤️
-
+<!-- - 🔗 Rocking a cool **20k+ connections** on LinkedIn, let's connect! -->
+<!--
 <h3 align="left">📲 Connect with me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -14,7 +14,7 @@
    <a href="https://www.instagram.com/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://t.me/"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://peerlist.io/"><img alt="Telegram" src="https://github-readme-badge.peerlist.io/api/" /></a>
-</div>
+</div>-->
 
 <h3 align="left">🚀 Tech Stack:</h3>
 <div align="left">
@@ -34,7 +34,7 @@
 <!-- <img alt="chakraui" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/> -->
 <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img alt="sockteio" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/>
+<!-- <img alt="sockteio" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/> -->
 </div>
 
 <!-- <h3 align="left">Languages :</h3>
@@ -46,18 +46,18 @@
 <h3 align="left">🗄️ Databases:</h3>
 <div align="left">
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<!--   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> -->
   <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div><br/>
 
 <h3 align="left">📊 GitHub Activity:</h3>
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=jigar-sable&show_icons=true&theme=dark&locale=en" alt="jigar-sable" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jigar-sable&show_icons=true&theme=dark&locale=en&layout=compact" alt="jigar-sable" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=durairam-dev&show_icons=true&theme=dark&locale=en" alt="durairam-dev" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=durairam-dev&show_icons=true&theme=dark&locale=en&layout=compact" alt="durairam-dev" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigar-sable&theme=dark" alt="jigar-sable" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durairam-dev&theme=dark" alt="durairam-dev" /></p>
   </div>
